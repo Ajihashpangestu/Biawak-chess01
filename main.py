@@ -1,2 +1,128 @@
-import lzma,base64 as q
-exec(lzma.decompress(q.b85decode("000010RR90|NsC0{{S-{KO?g{Q|YX2c}t?iV&a&Emh=&*tX9(6<s#TA*e8&WzHanuYkN*mE{Tp8ksQRqH52cWyv$f;JwLzRlP%%L`NV^EosmA%FNz;h?nN|UMRK9bRb?o&;fS>Pgw^)_-3``X2q@TNg-Ef|*g%lpnDf;dgG9SP(-GdlYi<7NHUB%DOMCR!6ZKWzuTO+1m|8)vl5O%}q)ORb!zr050y;jeNV>p<(P$?;l?0r$D}}D<-c$fFN8p59oh9ad0ECaw=2DS_Rj+aA^VCsXclCO#F2Q?uNZ@|)3@|){Fh5&l!8*4x|Hu;1?dvx_T(~e1r<QSI3$~5q7`ZsnXc&$&A!l~=D8V;bwa|*;b;<0ZO59~BqI;U*0O8)sdVH`jW4vh?>uH%0*hk+pF(^f~<HV#sbrlk4`@yb}&=h5GE{#+<jc(DMx}47t2{r|(Vq04ZsT~uP<kjjc&3(<90Ot}l3Utg2E5+s^-_wS1q1K;Ng1v<ovs6Kk0VKxX3ASSg!&DFGahy{!p6QBOaUX-Q;oWEhCkE3&K2U{;vaQb6*RxDdQS$M}w{Y9!Ti?USvA*{vp1b1&*3Dk5{wi2B;Ks;qJc^QXFjrVX8aLLj8T+P)s)3tz`n>k4{6Dp%hUl97D8F3QO#u8hb7*Y&8?7rk%R&%iUIb_#DpTK7E@nNtgmO`HE$&dqc4#}3hrVPe0$C#-2@N}#ARkov+d~9sVu2KZOLf8B;Ztm`b8Yyb<tyS7pkEdQrrf<ou~w_NaC=mEVZ;gOV{0dRRpADuR8j`vU^r@bM<x1%Os`>!10<ujWQ=gaBT8FLOGBpy*!7A7aI4ds<y0RhaDYE9GY9<q_9&<a;w{R8D3+<rxn~y6qpUTAAiIG|`P~l7n1gVX2iUeb<Ffulr@l<@NxqU_?Gx=RG$rD@dy>P3VUE}y6|gvyJvmbLF**h%uU`#YYqcQTtsMTq5(F$>6;?6%>V*MbkIeta@gu^}UbwDM^oWHHl_Mo+;s_sX4!RK)htF%`V26HX5%FI?+)~%RKv4is>pLJIic3X=SUyqD;xh55o7FBF=?=5GYb5sHe_@SxM7GO+H>VWk{%zl{i;HHB@-mS!%s1nPi>HplctT%MMq-OoE3OhC0&;u>=hq|K=#j`7?>#N$qbi^eg@-5whKcSPzC+Ipc4pq6A}0`CD#E8mcfFI*ZVt1@$`JLcP57EcG`YOsDCwmefW@h2vj_RA9=j!d-E2yFMdQ=*=8~kh&$bj$l-cO#GxlOQS<uQ~lU6l#aB1E}xSJZGF%CyP*^ajrcH)j(H<0m6!fCP7D|ax0LHhF3bAqKxTBcY)gir<#Z8J2A^EPwqg<O4qyn`uYaZc@tfmedc{9Nt!llS0=%1P<2B-z~SND@Woy?dWbOferY!XjTUX*~@i|LXh$XA1e$ft5{!Ut{kZO%TZxatvw7sH-&)5*gY-N>|Bu(|3>=HkNPny+e~5hFpRMg@!fphEoR|=w3_&m=Ip774n_ME#Y6DG24)-EJsNI?1i6kKj$a>%JCG3o|G5H7Wn*!5CQU#DUP2oV97Df)X#>^YP7xE^X%WkeZ~Y0XMSNUp;6mW%r;n@7#k6psucb63cin^zj#BofYez(-}Vj#M8U4{p|v_Tgz;EmFy!__pkcnKb;{d9s5c#agC@Bk%BiJkZO8Y_UrMUEt^kiSRGGBe`sp-!X-e%>(fxST^KW^ls(p0<eMpRHXphfBkp)1oH^|DJ(n!(tg%~fKxTV5jdl=v9aL%g1SL;)YV{B_;Wd$z`FbKUjOmAtEOa5w8W%=DR?Hz9MKX6Wo!0~pxh9hPBQ1Ce!UWd|oTbGZRg|7e|3=~-A#w-;weNX3Y>>UMqIkiMiL`sh|<fRPzuON#kYw#1I1=Ukzly3QisXIR0k=qVG<~VOU0fS9}?Kvtmvf)BhkBw7w{htJ{S1~B_;u--I<CKhsgw2q8_kq=LVj&;k3q8MHG;S;{@XHzL-OfZdiSBLo`9}CnxCrB&_#TBMy7Q|EINTbl<Mk;~ylOg5!2!=ngqCEhNN8j2r(6X;2o({SAa!bHakSYmk2KAi-O^Wu_gK;HSmN<6Z)*b(=#xx*yi~L8IVHD$=PbT<|GE>1T?Qf;#jd=qn^89hT8q7^56}h3>A)o{Aq+7_kMoJ(y^J^x<_?3%Ag>2jWuw{vTg}r{Z$)AIaUefO?UYK^P{$X){x}G({9%71i{yw1lJhjF?HyMKzBhYq5=i_9nrzrYOVrC23if-fgmZ;^c?NzZTXzx7zL*blSV15n|CZOvn%cN&;5I?uER;$6lfz{JX*(>uMgI9dh&XQGh}P-|3QJTT>Bf;7#lezUlnx(L=d?+p_cVOpiC{f?NmO>J3|Qbz(4jB?pntw-Q=fDT+#fMg4QVR{B&Fiv2;xE&pK29?QUCa<aJY0I>_P#-qR~rUtb}n3g-C;~m{+VwhC{an&bOD@J7Bf@dc6u9;)9k2R1{jv7fo_JZ_IT?0*fOxX;@lYO?aMIhmD<SA?26UAYwZhZzyrIIh>0Vu&$9>*HEb)Edl`>GV^{O!G=};BF$`3=P>-JdR;DR*Q1~K;e1-5-bSeSJx@<haxPPlEg`WFJP@GTQQDTfl6z#)RP?~cS6rl_|3g<v&W|~V-kOOY4YFXD@&r|TQm|VJHg5ji)&bXs(YtuWF$%0zbRCP!Gj?`)&YBri2u4$ehz9-F0Py2aN-VpWap(HB8k=2@;f%ryfOnGL+646*dv1u>?0iX})XxK<;DFc3fHxFGfZ$({ec4ArH$z;&y+59-ZQjI9D=yy;wJPv?w?C~i#lk12qyE72xI(c_+@j+t8zz&yVXy?@XWdh~ji>SP1N(d}d?L#6gA#^w^h9qdzn|wa1rrhh5*$D`l^Zae=<P;IsbCc4on|~3f8Jh)1KJH<|Ll48#OBs_%^7Q(^s<h$UT?qx0^)y^e<(POohtWP3Sp%oXt`&>(2)MHtMX#Cl>xq6<S?aeBY966EFJ{}?E~Vq=<qBYsQI^>64*5$KZ;uec_IWk6ntb_;g*EQ6CMwmC{W@<)(tTz*HPQ~o_RF#j^6^jbz9qo7BhOeRz%<9OK<K8;I43oJNp=5uoFew9mvtyVY0qk_h6wuQNpD4?9XfsYn*ef7us5lztRUM>OkB&5%OmUv?geI#9m3)B5Wk7CXylVCI!bU$%QGynU?U+H#i_?u=oOS$km~fDn6cqgNbM_$H-~IoP^ov>>xK>MIEkO?J>RMC>A%9zc5LB=rwU`ydilOb$wGkiyFulk}@VvgsC774g3<xLYY6UHk1WX13HfTjn~RjODmakp{oH))|mO9Trp%X&NpH!6m}_A(UO!xoKes}L&JKlnl=oN!M1ZZQ5R(ktFmu8dH|sCsrzjlsXe5XtNIVJSQGdt?Tw(o93qgW!c<o=(3eLAD@hZ#zGz;S{sqwcJie0sohA;+t{ENhO>gnRt6c<?X}IjMRepA0IbRDfELd=|tBGh)Zibl|v0U@|0!;Am)JQuqu&;A~n90~H#*>^x#4qvMY5oB(#R&p1Ije9}z_5;&sL)AkwNh!A(7;L0V}KJx!?Bfq7ZN2;)!c-T?aEv2K<l6L;5*pp81ig4$yN<n8XgtV`uJBv78!lP`VV1<C<+nl9YdS(yXLc$WpVD4Z$9WMKETdolr*7C=sRtSgKcObwe7I`Ghcx|3_IzNwf7iArz&m}dH7NH*xD2{Lay9^c(IiLs@v7Sos<xZoy0v)kO;OV*(dh25K3ruM6;%hZfSzURY<|r`oWYGhl+qPNxfCzEE18U)i0`g<1HBF)Lws2$LdBZJl719Lx!d9TKculQRFA;a8&zTt0{M+J#|qH>T=uj0)<o?c?jRRf-DY-#TW+9zh=;oyaHt?@zOz02XK?>I)&L!=a-6Z@I1TI#%&C0eAjj4^4_?Vf|V~p^;|Cl!W7HV+DP8yjnG$lXQ<Dm0Bc1Mg>)_H1wO&7pL&3Rf37-Oa9{7;y5CD8be-R#;q9McX^TA(8B9AJ!b|4K^-O#Xdnl+V-$zoJ8;^Ii#7=X8O}Z-V6U7*(l?!Y3^;vB&NGC=BJkc%4nG@FQHiha1Kq5ak^8fND6w&")))
+from itertools import count
+from collections import namedtuple
+piece = {"P": 100, "N": 280, "B": 320, "R": 479, "Q": 929, "K": 60000}
+pst = {'P': (0, 0, 0, 0, 0, 0, 0, 0, 78, 83, 86, 73, 102, 82, 85, 90, 7, 29, 21, 44, 40, 31, 44, 7, -17, 16, -2, 15, 14, 0, 15, -13, -26, 3, 10, 9, 6, 1, 0, -23, -22, 9, 5, -11, -10, -2, 3, -19, -31, 8, -7, -37, -36, -14, 3, -31, 0, 0, 0, 0, 0, 0, 0, 0), 'N': (-66, -53, -75, -75, -10, -55, -58, -70, -3, -6, 100, -36, 4, 62, -4, -14, 10, 67, 1, 74, 73, 27, 62, -2, 24, 24, 45, 37, 33, 41, 25, 17, -1, 5, 31, 21, 22, 35, 2, 0, -18, 10, 13, 22, 18, 15, 11, -14, -23, -15, 2, 0, 2, 0, -23, -20, -74, -23, -26, -24, -19, -35, -22, -69), 'B': (-59, -78, -82, -76, -23, -107, -37, -50, -11, 20, 35, -42, -39, 31, 2, -22, -9, 39, -32, 41, 52, -10, 28, -14, 25, 17, 20, 34, 26, 25, 15, 10, 13, 10, 17, 23, 17, 16, 0, 7, 14, 25, 24, 15, 8, 25, 20, 15, 19, 20, 11, 6, 7, 6, 20, 16, -7, 2, -15, -12, -14, -15, -10, -10), 'R': (35, 29, 33, 4, 37, 33, 56, 50, 55, 29, 56, 67, 55, 62, 34, 60, 19, 35, 28, 33, 45, 27, 25, 15, 0, 5, 16, 13, 18, -4, -9, -6, -28, -35, -16, -21, -13, -29, -46, -30, -42, -28, -42, -25, -25, -35, -26, -46, -53, -38, -31, -26, -29, -43, -44, -53, -30, -24, -18, 5, -2, -18, -31, -32), 'Q': (0,)*64, 'K': (4, 54, 47, -99, -99, 60, 83, -62, -32, 10, 55, 56, 56, 55, 10, 3, -62, 12, -57, 44, -67, 28, 37, -31, -55, 50, 11, -4, -19, 13, 0, -49, -55, -43, -52, -28, -51, -47, -8, -50, -47, -42, -43, -79, -64, -32, -29, -32, -4, 3, -14, -50, -57, -18, 13, 4, 17, 30, -3, -14, 6, -1, 40, 18)}
+for k, table in pst.items():
+    pst[k] = (0,) * 20 + tuple(x + piece[k] for x in sum((table[i * 8 : i * 8 + 8] for i in range(8)), ())) + (0,) * 20
+initial = '         \n' * 2 + ' rnbqkbnr\n pppppppp\n' + ' ........\n' * 4 + ' PPPPPPPP\n RNBQKBNR\n' + '         \n' * 2
+N, E, S, W = -10, 1, 10, -1
+Q4 = N, E, S, W, N + E, S + E, S + W, N + W
+directions = {'P': (N, N + N, N + W, N + E), 'N': (N + N + E, E + N + E, E + S + E, S + S + E, S + S + W, W + S + W, W + N + W, N + N + W), 'B': Q4[4:], 'R': Q4[:4], 'Q': Q4, 'K': Q4}
+class Position(namedtuple("Position", "board score ep")):
+    def gen_moves(self):
+        for i, p in enumerate(self.board):
+            if p not in "PNBRQK": continue
+            for d in directions[p]:
+                for j in count(i + d, d):
+                    q = self.board[j]
+                    if q in " \nPNBRQK": break
+                    if p == "P":
+                        if d in (N, N + N) and q != ".": break
+                        if d == N + N and (i < 91 + N or self.board[i + N] != "."): break
+                        if d in (N + W, N + E) and q == "." and j != self.ep: break
+                        if 21 <= j <= 28:
+                            yield from ((i, j, prom) for prom in "NBRQ")
+                            break
+                    yield (i, j, "")
+                    if p in "PNK" or q in "pnbrqk": break
+    def rotate(self):
+        return Position(self.board[::-1].swapcase(), -self.score, 119 - self.ep if self.ep else 0)
+    def move(self, move):
+        i, j, prom = move
+        put = lambda board, i, p: board[:i] + p + board[i + 1 :]
+        p, q, board, ep = self.board[i], self.board[j], self.board, 0
+        score = self.score + self.value(move)
+        board = put(board, j, board[i])
+        board = put(board, i, ".")
+        if p == "P":
+            if 21 <= j <= 28:  board = put(board, j, prom)
+            if j - i == 2 * N: ep = i + N
+            if j == self.ep:   board = put(board, j + S, ".")
+        return Position(board, score, ep).rotate()
+    def value(self, move):
+        i, j, prom = move
+        p, q = self.board[i], self.board[j]
+        score = pst[p][j] - pst[p][i]
+        if q in "pnbrqk": score += pst[q.upper()][119 - j]
+        return score
+class Stop(Exception): pass
+Entry = namedtuple("Entry", "lower upper")
+class Searcher:
+    def __init__(self):
+        self.tp_score, self.tp_move = {}, {}
+        self.nodes, self.budget = 0, 0
+    def bound(self, pos, gamma, depth, root=False):
+        depth = max(depth, 0)
+        self.nodes += 1
+        if self.nodes % 2048 == 0 and self.nodes >= self.budget: raise IndexError
+        if pos.score <= -47923: return -69290
+        if not root:
+            entry = self.tp_score.get((pos, depth), (-69290, 69290))
+            if entry[0] >= gamma: return entry[0]
+            if entry[1] < gamma: return entry[1]
+        killer = self.tp_move.get(pos)
+        def moves():
+            if depth == 0: yield None, None
+            if killer and ((val := pos.value(killer)) >= 36 or depth): yield val, killer
+            yield from sorted(((v, m) for m in pos.gen_moves() if (v := pos.value(m)) >= 36 or depth), reverse=True)
+        best = -69290
+        for val, move in moves():
+            if move is None: score = pos.score
+            elif val >= 47923: score = 69290
+            else: score = -self.bound(pos.move(move), 1 - gamma, depth - 1)
+            best = max(best, score)
+            if best >= gamma:
+                if move is not None and depth: self.tp_move[pos] = move
+                break
+        if not root: self.tp_score[pos, depth] = (best, entry[1]) if best >= gamma else (entry[0], best)
+        return best
+    def search(self, history):
+        self.nodes, self.tp_score = 0, {}
+        pos = history[-1]
+        gamma = 0
+        for depth in range(1, 1000):
+            lower, upper = 1 - 69290, 69290
+            while lower < upper:
+                score = self.bound(pos, gamma, depth, root=True)
+                if score >= gamma: lower = score
+                else: upper = score
+                yield depth, gamma, score, self.tp_move.get(pos)
+                gamma = (lower + upper + 1) // 2
+            if self.nodes >= self.budget: return
+def parse(c): return 91 + ord(c[0]) - ord("a") - 10 * (int(c[1]) - 1)
+def render(i): return chr((i - 91) % 10 + ord("a")) + str(1 - (i - 91) // 10)
+hist = [Position(initial, 0, 0)]
+import json as J, os, urllib.request as R
+B={}
+for e in lzma.decompress(q.b85decode("000010RR90|NsC0{{T6fX4f^|@|_MGY-TOB$hujU)95#(p<hf8s^>-X+rSw1V~wgQ*xOpsJshz1m*UMfEMe)dj1D<P4sF7nMK|d35@F%yNw^;^{+=;jcB7^;abtH5&_X}#pLGqb<MVS~#nUm2Oue3%&QlbS^s`o3V_MJ<z(Y78-O7$R?QfyHELarztVbEi_m!d_LfD*<JqA|5$1%E&R3RiPZaC?vpXa#D+@c>s)|RQl?39H$RSBxXj=_NrFIS){;T>iXlUJBqa@%v3sLLSM7UXfNtt@Qp!Dr&a>GHKfrM6N)KZ_9mB;}U|gk-XTWMkvGBk%emcv);x%7uNRy`#jbwOq+zK}8`VZU`Mcz&U{I8~;WLC{sR}l6gFl*mf0HHRvRe1aqdHPk!Wb*kynXR~JyU29ea|CO6`@R?I#zyziB1np-U@RnJtft1KP$v8o>ura3(6sxP`SQLVOERYT#e+)76qPRSh%tiGRdWW(j@%1~uHHshF?0YEhj+O%4tB#PU$$|YZy?+UTXj3g7g6r2~a>(hm__e$`86aM$y-4g")).decode().split(";"):
+ k,v=e.split(":"); B[k]=v
+V=os.environ["MAKEFUN_ENV_URL"]
+def post(p,b):
+ r=R.Request(V+p,data=J.dumps(b).encode())
+ return J.load(R.urlopen(r))
+while 1:
+ g=post("/game",{})
+ if g["status"]=="done": break
+ while g["status"]=="your_move":
+  e=B.get(g["opening"]["id"])
+  n=len(g["moves"])//2
+  bk=e[4*n:4*n+4] if e else None
+  if bk in g["legal_moves"]: mv=bk
+  else:
+   del hist[1:]
+   for ply,mv0 in enumerate(g["moves"]):
+    i,j,prom=parse(mv0[:2]),parse(mv0[2:4]),mv0[4:].upper()
+    if ply%2==1: i,j=119-i,119-j
+    hist.append(hist[-1].move((i,j,prom)))
+   s2=Searcher(); s2.budget=int(os.environ.get("CHESS_NODES","60000"))
+   cand=None
+   try:
+    for depth,gamma,score,move in s2.search(hist):
+     if score>=gamma:
+      if move is None: break
+      i,j,prom=move
+      if len(hist)%2==0: i,j=119-i,119-j
+      cand=render(i)+render(j)+prom.lower()
+   except IndexError: pass
+   mv=cand or g["legal_moves"][0]
+  g=post("/move",{"game":g["game"],"move":mv})
