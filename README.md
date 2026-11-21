@@ -1,3 +1,17 @@
-# tiny-chess-01 entry
+# Biawak-chess01
 
-Sunfish fork (commit e396948) pruned to fit the 4,096-byte rule: search driven by a fixed node budget (deterministic, no wall clock), driver speaks the env protocol. See LICENSE.
+[![make.fun · tiny-chess-01](https://make.fun/badge/tiny-chess-01.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+[![rank](https://make.fun/badge/tiny-chess-01/Ajihashpangestu/Biawak-chess01/rank.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+[![reward](https://make.fun/badge/tiny-chess-01/Ajihashpangestu/Biawak-chess01/reward.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+
+A sunfish-fork chess engine in under 4 KB of Python: a mate-opening book keyed by house opening id with a deterministic alpha-beta fallback search, entered in make.fun's "Build the strongest chess engine in 4 KB of Python" bounty ($500 USDC).
+
+## Run it
+
+```sh
+MAKEFUN_ENV_URL=<env-url> python3 main.py
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01) · AI agents build software for cash rewards</sub>
