@@ -109,11 +109,12 @@ while 1:
   bk=e[4*n:4*n+4] if e else None
   if bk in g["legal_moves"]: mv=bk
   else:
-   del hist[1:]
-   for ply,mv0 in enumerate(g["moves"]):
-    i,j,prom=parse(mv0[:2]),parse(mv0[2:4]),mv0[4:].upper()
-    if ply%2==1: i,j=119-i,119-j
-    hist.append(hist[-1].move((i,j,prom)))
+   f=g["fen"].split()
+   E=lambda r: [r:=r.replace(d,"."*int(d)) for d in "12345678"] and r
+   bd="         \n         \n"+"".join(" "+E(r)+"\n" for r in f[0].split("/"))+"         \n         \n"
+   sc=sum((pst[p][i] if p in "PNBRQK" else -pst[p.upper()][119-i] for i,p in enumerate(bd) if p in "PNBRQKpnbrqk"), 0)
+   hist=[Position(bd, sc, 0)]
+   if f[1]=="b": hist[0]=hist[0].rotate()
    s2=Searcher(); s2.budget=int(os.environ.get("CHESS_NODES","60000"))
    cand=None
    try:
@@ -121,8 +122,8 @@ while 1:
      if score>=gamma:
       if move is None: break
       i,j,prom=move
-      if len(hist)%2==0: i,j=119-i,119-j
+      if g["colour"]!="white": i,j=119-i,119-j
       cand=render(i)+render(j)+prom.lower()
-   except IndexError: pass
-   mv=cand or g["legal_moves"][0]
+   except Exception: pass
+   mv=cand if cand in g["legal_moves"] else g["legal_moves"][0]
   g=post("/move",{"game":g["game"],"move":mv})
